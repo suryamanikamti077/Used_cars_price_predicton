@@ -1,0 +1,301 @@
+Car_Name,Brand,Manufacturing_Year,Kilometers_Driven,Fuel_Type,Transmission_Type,Number_of_Owners,Seller_Type,Selling_Price
+Hyundai Creta,Hyundai,2015,146932,Petrol,Manual,First Owner,Individual,375000
+Tata Tiago,Tata,2019,141324,Diesel,Manual,First Owner,Trustmark Dealer,285000
+Hyundai i20,Hyundai,2013,20311,CNG,Manual,First Owner,Individual,220000
+Tata Nexon,Tata,2023,17747,Petrol,Manual,Second Owner,Individual,565000
+Maruti Wagon R,Maruti,2016,18890,Diesel,Manual,First Owner,Trustmark Dealer,235000
+Honda Amaze,Honda,2021,83148,Petrol,Manual,Second Owner,Dealer,395000
+Maruti Wagon R,Maruti,2012,34457,Petrol,Manual,First Owner,Individual,170000
+Tata Altroz,Tata,2013,52065,CNG,Manual,Second Owner,Individual,215000
+Honda City,Honda,2016,38247,Diesel,Manual,First Owner,Trustmark Dealer,465000
+Toyota Innova,Toyota,2020,53044,Diesel,Manual,Third Owner,Dealer,610000
+Tata Tiago,Tata,2014,54504,Diesel,Automatic,First Owner,Trustmark Dealer,250000
+Hyundai Creta,Hyundai,2020,45535,Petrol,Manual,First Owner,Dealer,650000
+Tata Altroz,Tata,2019,25965,CNG,Manual,First Owner,Dealer,395000
+Toyota Etios,Toyota,2018,136626,Petrol,Manual,First Owner,Individual,265000
+Hyundai Creta,Hyundai,2012,122059,Petrol,Manual,First Owner,Dealer,355000
+Maruti Baleno,Maruti,2018,90450,Diesel,Automatic,First Owner,Individual,385000
+Tata Altroz,Tata,2023,40939,CNG,Manual,Second Owner,Dealer,425000
+Maruti Swift,Maruti,2012,143376,Diesel,Manual,First Owner,Individual,195000
+Honda Amaze,Honda,2016,28545,Petrol,Automatic,First Owner,Individual,355000
+Volkswagen Polo,Volkswagen,2012,54353,CNG,Manual,First Owner,Individual,205000
+Volkswagen Polo,Volkswagen,2022,41736,CNG,Manual,First Owner,Individual,410000
+Maruti Alto,Maruti,2016,65859,Petrol,Manual,First Owner,Individual,155000
+Volkswagen Polo,Volkswagen,2017,121308,Diesel,Manual,First Owner,Individual,300000
+Hyundai i20,Hyundai,2014,64811,Petrol,Manual,Second Owner,Dealer,220000
+Hyundai Creta,Hyundai,2015,154752,Diesel,Manual,Third Owner,Individual,340000
+Kia Seltos,Kia,2018,36918,Diesel,Manual,First Owner,Dealer,665000
+Volkswagen Polo,Volkswagen,2013,177688,Petrol,Automatic,Second Owner,Dealer,200000
+Maruti Wagon R,Maruti,2014,30151,Diesel,Automatic,First Owner,Dealer,230000
+Volkswagen Polo,Volkswagen,2019,20539,CNG,Manual,First Owner,Individual,350000
+Kia Seltos,Kia,2013,92505,Diesel,Manual,First Owner,Dealer,430000
+Ford EcoSport,Ford,2015,73871,Diesel,Automatic,First Owner,Individual,325000
+Toyota Etios,Toyota,2017,62333,Petrol,Automatic,First Owner,Dealer,330000
+Renault Kwid,Renault,2012,108179,Diesel,Manual,First Owner,Dealer,130000
+Toyota Etios,Toyota,2016,58525,Petrol,Manual,Second Owner,Individual,275000
+Maruti Wagon R,Maruti,2023,139019,Petrol,Manual,Second Owner,Individual,245000
+Tata Nexon,Tata,2017,118746,Petrol,Manual,First Owner,Trustmark Dealer,370000
+Tata Nexon,Tata,2013,173823,Diesel,Manual,First Owner,Individual,300000
+Maruti Wagon R,Maruti,2013,44592,Diesel,Manual,First Owner,Dealer,175000
+Honda City,Honda,2023,102922,Petrol,Manual,First Owner,Individual,545000
+Volkswagen Polo,Volkswagen,2015,85313,Diesel,Manual,First Owner,Individual,275000
+Tata Altroz,Tata,2023,129692,Petrol,Automatic,First Owner,Individual,485000
+Honda City,Honda,2015,109476,CNG,Manual,First Owner,Individual,345000
+Hyundai i10,Hyundai,2021,23308,Petrol,Manual,Second Owner,Individual,255000
+Renault Kwid,Renault,2013,153877,Petrol,Manual,Third Owner,Dealer,110000
+Hyundai i10,Hyundai,2017,82215,Petrol,Manual,First Owner,Individual,175000
+Toyota Etios,Toyota,2015,175196,Petrol,Manual,First Owner,Individual,215000
+Hyundai i10,Hyundai,2018,119185,Diesel,Manual,First Owner,Individual,205000
+Maruti Swift,Maruti,2019,24540,Diesel,Manual,Third Owner,Trustmark Dealer,340000
+Tata Altroz,Tata,2013,26938,Diesel,Manual,First Owner,Trustmark Dealer,280000
+Maruti Swift,Maruti,2019,84449,Petrol,Manual,First Owner,Individual,300000
+Kia Seltos,Kia,2014,42350,Petrol,Manual,Second Owner,Individual,460000
+Honda Amaze,Honda,2018,18267,Diesel,Manual,Third Owner,Individual,310000
+Maruti Baleno,Maruti,2021,53756,Diesel,Automatic,Third Owner,Individual,425000
+Hyundai Creta,Hyundai,2019,153429,Petrol,Manual,First Owner,Dealer,500000
+Volkswagen Polo,Volkswagen,2012,29397,Petrol,Manual,First Owner,Individual,210000
+Honda Amaze,Honda,2014,74163,CNG,Automatic,First Owner,Dealer,285000
+Maruti Wagon R,Maruti,2023,157202,Petrol,Automatic,Second Owner,Individual,295000
+Hyundai Creta,Hyundai,2021,24348,Diesel,Manual,Second Owner,Trustmark Dealer,710000
+Tata Altroz,Tata,2012,16542,Petrol,Manual,First Owner,Dealer,240000
+Hyundai i10,Hyundai,2017,41962,Diesel,Automatic,Second Owner,Individual,225000
+Toyota Innova,Toyota,2015,34870,Petrol,Manual,Second Owner,Individual,480000
+Maruti Wagon R,Maruti,2013,155507,Petrol,Manual,Second Owner,Dealer,145000
+Maruti Wagon R,Maruti,2023,76629,Petrol,Manual,First Owner,Individual,300000
+Tata Altroz,Tata,2016,35559,Petrol,Automatic,First Owner,Individual,365000
+Kia Seltos,Kia,2020,67528,Diesel,Manual,First Owner,Dealer,765000
+Tata Tiago,Tata,2023,114657,CNG,Automatic,First Owner,Dealer,345000
+Maruti Baleno,Maruti,2021,117023,Petrol,Manual,First Owner,Trustmark Dealer,470000
+Volkswagen Polo,Volkswagen,2020,93752,Petrol,Manual,First Owner,Individual,315000
+Hyundai i20,Hyundai,2013,71178,Diesel,Manual,First Owner,Trustmark Dealer,265000
+Toyota Innova,Toyota,2016,16015,Petrol,Automatic,Third Owner,Individual,545000
+Volkswagen Polo,Volkswagen,2012,33017,Petrol,Manual,First Owner,Individual,230000
+Hyundai i10,Hyundai,2016,95642,Petrol,Manual,Third Owner,Dealer,140000
+Toyota Etios,Toyota,2020,53765,Petrol,Manual,First Owner,Dealer,380000
+Maruti Alto,Maruti,2023,153311,Petrol,Manual,First Owner,Dealer,220000
+Maruti Swift,Maruti,2017,88963,Petrol,Automatic,First Owner,Individual,290000
+Renault Kwid,Renault,2016,54764,Diesel,Automatic,Second Owner,Dealer,205000
+Kia Seltos,Kia,2013,153013,Petrol,Manual,Second Owner,Individual,355000
+Renault Kwid,Renault,2023,85390,Petrol,Manual,Second Owner,Individual,255000
+Volkswagen Polo,Volkswagen,2023,70123,Petrol,Automatic,First Owner,Individual,475000
+Ford EcoSport,Ford,2022,152326,Petrol,Manual,First Owner,Individual,430000
+Honda City,Honda,2015,123215,Petrol,Automatic,First Owner,Trustmark Dealer,410000
+Hyundai i10,Hyundai,2013,126195,Petrol,Manual,First Owner,Individual,135000
+Toyota Etios,Toyota,2013,123464,Petrol,Manual,First Owner,Dealer,220000
+Renault Kwid,Renault,2019,165334,Petrol,Manual,Second Owner,Individual,175000
+Renault Kwid,Renault,2019,126317,Petrol,Manual,First Owner,Dealer,185000
+Hyundai Creta,Hyundai,2014,33030,Diesel,Manual,First Owner,Dealer,455000
+Renault Kwid,Renault,2020,126076,Petrol,Manual,Second Owner,Individual,190000
+Volkswagen Polo,Volkswagen,2015,152240,Diesel,Automatic,First Owner,Individual,270000
+Maruti Alto,Maruti,2019,96264,Petrol,Manual,First Owner,Dealer,190000
+Toyota Innova,Toyota,2017,18812,CNG,Manual,First Owner,Individual,605000
+Tata Tiago,Tata,2019,173518,Diesel,Manual,First Owner,Dealer,270000
+Hyundai i20,Hyundai,2013,56427,CNG,Automatic,Second Owner,Individual,215000
+Maruti Alto,Maruti,2022,94239,Petrol,Automatic,First Owner,Trustmark Dealer,265000
+Maruti Swift,Maruti,2015,142534,Diesel,Manual,First Owner,Individual,265000
+Toyota Innova,Toyota,2022,62362,Petrol,Manual,First Owner,Individual,860000
+Toyota Innova,Toyota,2019,23512,Petrol,Manual,First Owner,Individual,705000
+Maruti Wagon R,Maruti,2012,98524,Diesel,Automatic,First Owner,Dealer,190000
+Tata Altroz,Tata,2014,139450,CNG,Manual,First Owner,Dealer,255000
+Hyundai i10,Hyundai,2023,103861,Diesel,Manual,First Owner,Dealer,300000
+Toyota Innova,Toyota,2021,58303,Petrol,Manual,Second Owner,Dealer,715000
+Renault Kwid,Renault,2012,165168,Petrol,Manual,First Owner,Individual,115000
+Hyundai Creta,Hyundai,2014,56157,CNG,Manual,First Owner,Individual,435000
+Maruti Swift,Maruti,2015,40053,CNG,Automatic,First Owner,Individual,275000
+Maruti Swift,Maruti,2015,34029,Diesel,Manual,Second Owner,Individual,260000
+Renault Kwid,Renault,2015,143876,Petrol,Manual,Second Owner,Individual,130000
+Tata Altroz,Tata,2013,162550,Diesel,Manual,Second Owner,Dealer,230000
+Tata Nexon,Tata,2019,91325,Petrol,Manual,First Owner,Dealer,475000
+Honda City,Honda,2013,32368,Petrol,Manual,First Owner,Individual,370000
+Hyundai i10,Hyundai,2019,68028,Diesel,Manual,First Owner,Dealer,230000
+Toyota Etios,Toyota,2019,149869,CNG,Manual,First Owner,Individual,275000
+Maruti Swift,Maruti,2017,134719,Diesel,Manual,Second Owner,Individual,270000
+Honda Amaze,Honda,2014,171222,Petrol,Automatic,Second Owner,Individual,235000
+Volkswagen Polo,Volkswagen,2022,56914,Petrol,Manual,First Owner,Individual,395000
+Maruti Swift,Maruti,2012,109270,Petrol,Manual,First Owner,Individual,220000
+Honda Amaze,Honda,2012,67853,Diesel,Manual,First Owner,Individual,240000
+Volkswagen Polo,Volkswagen,2019,164521,Petrol,Manual,First Owner,Individual,290000
+Hyundai i20,Hyundai,2014,134614,Petrol,Manual,First Owner,Dealer,220000
+Toyota Etios,Toyota,2013,141944,Petrol,Manual,Second Owner,Dealer,180000
+Maruti Wagon R,Maruti,2019,45678,Diesel,Manual,First Owner,Dealer,250000
+Maruti Swift,Maruti,2023,116358,Diesel,Automatic,Third Owner,Dealer,415000
+Ford EcoSport,Ford,2015,69771,Diesel,Manual,First Owner,Dealer,300000
+Hyundai Creta,Hyundai,2012,17198,Diesel,Manual,Second Owner,Dealer,400000
+Maruti Swift,Maruti,2016,102955,Petrol,Automatic,First Owner,Individual,305000
+Hyundai i10,Hyundai,2017,147351,Petrol,Manual,First Owner,Trustmark Dealer,190000
+Volkswagen Polo,Volkswagen,2021,34063,CNG,Manual,First Owner,Individual,380000
+Honda Amaze,Honda,2019,114608,Petrol,Manual,Second Owner,Trustmark Dealer,330000
+Toyota Innova,Toyota,2013,141678,Diesel,Automatic,First Owner,Dealer,490000
+Maruti Alto,Maruti,2012,168252,Diesel,Automatic,First Owner,Individual,120000
+Hyundai i20,Hyundai,2022,19263,Petrol,Manual,First Owner,Individual,445000
+Toyota Etios,Toyota,2013,116371,CNG,Manual,First Owner,Dealer,200000
+Tata Tiago,Tata,2019,104599,CNG,Manual,First Owner,Trustmark Dealer,260000
+Hyundai i10,Hyundai,2019,167864,Petrol,Manual,First Owner,Dealer,205000
+Toyota Innova,Toyota,2022,81017,Diesel,Manual,First Owner,Individual,810000
+Tata Tiago,Tata,2019,70337,Petrol,Manual,First Owner,Individual,290000
+Hyundai i20,Hyundai,2013,38051,Petrol,Manual,Second Owner,Individual,230000
+Volkswagen Polo,Volkswagen,2023,147413,CNG,Manual,First Owner,Dealer,395000
+Ford EcoSport,Ford,2017,161968,CNG,Manual,Second Owner,Individual,285000
+Tata Nexon,Tata,2018,121896,Petrol,Manual,Second Owner,Individual,375000
+Honda Amaze,Honda,2014,95559,Petrol,Manual,Second Owner,Dealer,220000
+Maruti Wagon R,Maruti,2013,163922,Diesel,Manual,First Owner,Individual,145000
+Maruti Alto,Maruti,2014,149055,Petrol,Manual,First Owner,Dealer,130000
+Toyota Innova,Toyota,2013,128824,CNG,Manual,First Owner,Individual,440000
+Toyota Innova,Toyota,2013,159991,Diesel,Automatic,First Owner,Dealer,470000
+Tata Altroz,Tata,2020,48039,Diesel,Automatic,Second Owner,Individual,410000
+Hyundai i10,Hyundai,2012,47733,Petrol,Manual,First Owner,Dealer,150000
+Hyundai i10,Hyundai,2020,150566,Petrol,Manual,First Owner,Trustmark Dealer,225000
+Tata Tiago,Tata,2023,146878,Diesel,Automatic,First Owner,Dealer,350000
+Maruti Baleno,Maruti,2022,143583,CNG,Manual,First Owner,Individual,400000
+Maruti Alto,Maruti,2020,131953,Petrol,Automatic,Second Owner,Dealer,200000
+Volkswagen Polo,Volkswagen,2020,91898,Diesel,Manual,First Owner,Individual,355000
+Volkswagen Polo,Volkswagen,2019,170650,Diesel,Manual,First Owner,Individual,310000
+Toyota Etios,Toyota,2016,163746,Diesel,Manual,First Owner,Dealer,280000
+Tata Altroz,Tata,2021,44192,Petrol,Automatic,Second Owner,Individual,405000
+Hyundai i20,Hyundai,2019,167826,Diesel,Manual,First Owner,Individual,315000
+Hyundai i10,Hyundai,2012,140991,CNG,Manual,Second Owner,Individual,120000
+Honda City,Honda,2022,114616,Diesel,Automatic,First Owner,Dealer,680000
+Honda Amaze,Honda,2022,112624,CNG,Manual,Second Owner,Individual,390000
+Toyota Innova,Toyota,2021,83344,Petrol,Automatic,First Owner,Individual,835000
+Kia Seltos,Kia,2015,141209,Diesel,Manual,First Owner,Individual,480000
+Volkswagen Polo,Volkswagen,2020,178038,Petrol,Manual,Second Owner,Individual,270000
+Hyundai Creta,Hyundai,2021,159353,Petrol,Manual,Third Owner,Individual,515000
+Maruti Baleno,Maruti,2013,153563,Petrol,Manual,First Owner,Dealer,240000
+Kia Seltos,Kia,2013,169893,CNG,Automatic,Second Owner,Individual,395000
+Hyundai Creta,Hyundai,2022,22813,Petrol,Automatic,First Owner,Individual,750000
+Maruti Alto,Maruti,2015,160360,Petrol,Automatic,First Owner,Dealer,145000
+Maruti Alto,Maruti,2015,149165,Petrol,Automatic,Third Owner,Individual,130000
+Renault Kwid,Renault,2016,174674,CNG,Manual,First Owner,Individual,145000
+Hyundai i20,Hyundai,2013,148052,Petrol,Automatic,Second Owner,Individual,205000
+Honda City,Honda,2023,130672,Diesel,Manual,Second Owner,Dealer,585000
+Maruti Wagon R,Maruti,2023,151727,CNG,Manual,Second Owner,Individual,235000
+Volkswagen Polo,Volkswagen,2023,49531,Petrol,Manual,First Owner,Dealer,430000
+Maruti Alto,Maruti,2019,97503,Petrol,Manual,First Owner,Individual,180000
+Toyota Etios,Toyota,2017,172215,Diesel,Manual,Third Owner,Trustmark Dealer,245000
+Honda Amaze,Honda,2012,54499,CNG,Manual,First Owner,Dealer,245000
+Tata Nexon,Tata,2019,37431,CNG,Manual,First Owner,Dealer,435000
+Toyota Innova,Toyota,2015,71985,Petrol,Manual,First Owner,Dealer,550000
+Maruti Alto,Maruti,2021,24078,Diesel,Automatic,First Owner,Dealer,275000
+Honda Amaze,Honda,2018,140150,Petrol,Manual,Second Owner,Dealer,305000
+Renault Kwid,Renault,2022,115734,Petrol,Automatic,First Owner,Dealer,265000
+Maruti Wagon R,Maruti,2020,110081,Petrol,Manual,First Owner,Dealer,245000
+Toyota Etios,Toyota,2015,85316,Petrol,Automatic,First Owner,Individual,280000
+Kia Seltos,Kia,2014,15661,Petrol,Manual,First Owner,Individual,485000
+Renault Kwid,Renault,2012,176099,Petrol,Automatic,First Owner,Dealer,135000
+Tata Altroz,Tata,2015,114259,Petrol,Automatic,First Owner,Individual,300000
+Maruti Baleno,Maruti,2013,41958,CNG,Manual,First Owner,Dealer,295000
+Tata Altroz,Tata,2014,141503,Diesel,Manual,Second Owner,Individual,235000
+Tata Nexon,Tata,2023,103397,Petrol,Manual,First Owner,Individual,515000
+Renault Kwid,Renault,2019,50046,Petrol,Manual,First Owner,Individual,230000
+Maruti Alto,Maruti,2014,159832,Diesel,Manual,Third Owner,Individual,105000
+Maruti Wagon R,Maruti,2017,97189,Petrol,Manual,First Owner,Individual,205000
+Honda City,Honda,2022,169571,Diesel,Manual,First Owner,Individual,550000
+Hyundai i10,Hyundai,2023,107324,Diesel,Manual,First Owner,Dealer,285000
+Kia Seltos,Kia,2013,106155,Petrol,Manual,First Owner,Individual,385000
+Maruti Swift,Maruti,2012,79178,Petrol,Manual,Third Owner,Trustmark Dealer,170000
+Maruti Alto,Maruti,2020,104393,CNG,Manual,First Owner,Individual,185000
+Hyundai i20,Hyundai,2015,54062,Petrol,Manual,Second Owner,Individual,245000
+Kia Seltos,Kia,2016,138008,Diesel,Manual,First Owner,Trustmark Dealer,505000
+Maruti Swift,Maruti,2018,161649,Petrol,Manual,First Owner,Dealer,295000
+Volkswagen Polo,Volkswagen,2023,65138,CNG,Manual,First Owner,Individual,425000
+Ford EcoSport,Ford,2016,173056,Petrol,Manual,Third Owner,Individual,255000
+Honda Amaze,Honda,2020,126279,Diesel,Manual,First Owner,Individual,385000
+Hyundai i20,Hyundai,2015,19114,Diesel,Manual,Second Owner,Individual,275000
+Hyundai Creta,Hyundai,2020,66924,Petrol,Manual,First Owner,Dealer,610000
+Maruti Swift,Maruti,2012,154999,Petrol,Manual,First Owner,Dealer,200000
+Tata Nexon,Tata,2013,92576,Petrol,Automatic,First Owner,Individual,305000
+Tata Altroz,Tata,2016,96889,Petrol,Manual,First Owner,Individual,290000
+Toyota Etios,Toyota,2013,173059,CNG,Manual,First Owner,Individual,200000
+Renault Kwid,Renault,2020,143803,CNG,Manual,Third Owner,Individual,155000
+Maruti Baleno,Maruti,2016,108747,Diesel,Automatic,First Owner,Dealer,340000
+Kia Seltos,Kia,2013,169243,Diesel,Manual,First Owner,Dealer,430000
+Hyundai Creta,Hyundai,2019,63368,Petrol,Manual,Third Owner,Individual,505000
+Maruti Swift,Maruti,2023,86031,Petrol,Manual,First Owner,Dealer,420000
+Honda Amaze,Honda,2021,52384,Diesel,Manual,First Owner,Trustmark Dealer,475000
+Volkswagen Polo,Volkswagen,2021,142834,Diesel,Manual,Second Owner,Individual,335000
+Kia Seltos,Kia,2014,96571,Petrol,Manual,First Owner,Individual,470000
+Maruti Swift,Maruti,2018,95532,Petrol,Manual,First Owner,Dealer,310000
+Tata Nexon,Tata,2020,173285,Diesel,Manual,First Owner,Individual,445000
+Kia Seltos,Kia,2014,139457,Petrol,Manual,Second Owner,Trustmark Dealer,385000
+Maruti Baleno,Maruti,2021,48893,Petrol,Manual,First Owner,Individual,480000
+Maruti Wagon R,Maruti,2020,46367,Petrol,Manual,First Owner,Individual,275000
+Hyundai i10,Hyundai,2023,51378,Diesel,Manual,First Owner,Dealer,290000
+Maruti Wagon R,Maruti,2017,151321,CNG,Manual,First Owner,Dealer,190000
+Honda City,Honda,2017,110673,CNG,Manual,Second Owner,Individual,365000
+Ford EcoSport,Ford,2023,175400,Petrol,Automatic,First Owner,Individual,450000
+Honda City,Honda,2017,33752,Diesel,Manual,First Owner,Individual,480000
+Maruti Swift,Maruti,2016,91559,Petrol,Manual,First Owner,Individual,255000
+Toyota Innova,Toyota,2013,50585,CNG,Manual,First Owner,Individual,450000
+Maruti Baleno,Maruti,2013,105373,CNG,Manual,Third Owner,Dealer,205000
+Renault Kwid,Renault,2012,158401,Petrol,Manual,First Owner,Individual,125000
+Maruti Wagon R,Maruti,2018,55461,Petrol,Manual,First Owner,Dealer,230000
+Kia Seltos,Kia,2021,151728,Petrol,Manual,First Owner,Dealer,615000
+Ford EcoSport,Ford,2017,160788,Petrol,Automatic,Second Owner,Dealer,295000
+Maruti Alto,Maruti,2015,162992,Petrol,Manual,Second Owner,Individual,125000
+Toyota Etios,Toyota,2015,70099,Diesel,Manual,First Owner,Dealer,270000
+Hyundai i10,Hyundai,2014,57913,Petrol,Manual,Third Owner,Individual,140000
+Honda Amaze,Honda,2018,59936,Petrol,Manual,First Owner,Individual,350000
+Maruti Swift,Maruti,2015,61851,CNG,Automatic,First Owner,Individual,285000
+Hyundai i20,Hyundai,2018,72009,Petrol,Automatic,First Owner,Individual,330000
+Toyota Etios,Toyota,2018,156028,Petrol,Automatic,First Owner,Individual,300000
+Hyundai i20,Hyundai,2016,169249,Diesel,Manual,First Owner,Individual,265000
+Toyota Innova,Toyota,2016,31052,Diesel,Automatic,First Owner,Individual,665000
+Maruti Baleno,Maruti,2013,143563,Petrol,Manual,Second Owner,Dealer,245000
+Tata Nexon,Tata,2016,132360,CNG,Automatic,First Owner,Dealer,375000
+Maruti Swift,Maruti,2021,105353,Petrol,Automatic,First Owner,Dealer,410000
+Honda City,Honda,2012,22099,Petrol,Automatic,First Owner,Trustmark Dealer,375000
+Honda City,Honda,2019,75920,Diesel,Manual,Second Owner,Individual,425000
+Honda City,Honda,2021,156214,Petrol,Manual,Second Owner,Dealer,430000
+Tata Tiago,Tata,2021,44956,Petrol,Automatic,First Owner,Individual,320000
+Ford EcoSport,Ford,2023,169960,Petrol,Manual,First Owner,Individual,415000
+Volkswagen Polo,Volkswagen,2015,112661,Petrol,Manual,Third Owner,Individual,220000
+Tata Nexon,Tata,2016,171299,Petrol,Manual,First Owner,Trustmark Dealer,345000
+Maruti Alto,Maruti,2022,162977,Petrol,Automatic,First Owner,Individual,225000
+Kia Seltos,Kia,2017,148533,CNG,Manual,First Owner,Individual,530000
+Hyundai Creta,Hyundai,2012,52643,CNG,Manual,Second Owner,Individual,360000
+Honda City,Honda,2018,160643,Petrol,Manual,Second Owner,Individual,370000
+Toyota Innova,Toyota,2013,159129,Petrol,Manual,Second Owner,Individual,375000
+Tata Altroz,Tata,2017,18754,Diesel,Manual,First Owner,Individual,335000
+Hyundai Creta,Hyundai,2023,24496,Diesel,Manual,First Owner,Individual,775000
+Hyundai i10,Hyundai,2014,53787,Petrol,Manual,Second Owner,Individual,150000
+Toyota Etios,Toyota,2018,171570,Diesel,Manual,First Owner,Individual,300000
+Tata Altroz,Tata,2012,130725,Diesel,Manual,First Owner,Dealer,245000
+Hyundai i20,Hyundai,2019,169834,CNG,Manual,First Owner,Dealer,305000
+Maruti Wagon R,Maruti,2021,88445,Petrol,Manual,First Owner,Dealer,265000
+Toyota Innova,Toyota,2015,42766,Diesel,Manual,Second Owner,Individual,490000
+Maruti Baleno,Maruti,2019,157077,Petrol,Manual,First Owner,Individual,340000
+Toyota Etios,Toyota,2014,93229,Diesel,Manual,Third Owner,Individual,220000
+Ford EcoSport,Ford,2015,20469,Petrol,Manual,First Owner,Individual,325000
+Renault Kwid,Renault,2022,162256,CNG,Manual,First Owner,Dealer,235000
+Renault Kwid,Renault,2017,176326,Diesel,Manual,First Owner,Dealer,165000
+Tata Nexon,Tata,2013,61850,Petrol,Manual,Second Owner,Individual,290000
+Toyota Innova,Toyota,2014,38284,Petrol,Automatic,First Owner,Individual,550000
+Volkswagen Polo,Volkswagen,2016,171351,Petrol,Manual,First Owner,Dealer,245000
+Maruti Swift,Maruti,2019,83920,Petrol,Manual,First Owner,Individual,320000
+Maruti Baleno,Maruti,2016,147503,Petrol,Manual,First Owner,Individual,310000
+Tata Nexon,Tata,2017,155905,Diesel,Manual,First Owner,Dealer,355000
+Kia Seltos,Kia,2021,118864,Petrol,Manual,Second Owner,Individual,590000
+Tata Tiago,Tata,2015,80428,Petrol,Manual,First Owner,Dealer,230000
+Kia Seltos,Kia,2016,137788,Petrol,Manual,Third Owner,Dealer,400000
+Honda Amaze,Honda,2012,22345,Diesel,Manual,First Owner,Dealer,265000
+Maruti Alto,Maruti,2023,169553,Petrol,Automatic,First Owner,Dealer,230000
+Maruti Alto,Maruti,2012,28140,Petrol,Manual,First Owner,Individual,140000
+Hyundai Creta,Hyundai,2017,89071,Diesel,Manual,First Owner,Trustmark Dealer,565000
+Volkswagen Polo,Volkswagen,2018,33708,Petrol,Manual,Second Owner,Individual,285000
+Renault Kwid,Renault,2017,161011,Petrol,Automatic,First Owner,Dealer,185000
+Maruti Alto,Maruti,2020,168335,Petrol,Automatic,First Owner,Individual,185000
+Kia Seltos,Kia,2022,178730,Petrol,Manual,First Owner,Individual,640000
+Honda Amaze,Honda,2015,72828,Diesel,Automatic,First Owner,Trustmark Dealer,340000
+Tata Nexon,Tata,2023,175211,Petrol,Manual,First Owner,Individual,535000
+Tata Tiago,Tata,2019,152701,Petrol,Manual,First Owner,Dealer,255000
+Tata Tiago,Tata,2016,82843,Diesel,Automatic,Second Owner,Individual,245000
+Ford EcoSport,Ford,2012,171222,Petrol,Manual,Second Owner,Individual,220000
+Hyundai i10,Hyundai,2020,70426,Petrol,Manual,Second Owner,Individual,220000
+Honda Amaze,Honda,2015,110665,Petrol,Manual,Third Owner,Trustmark Dealer,240000
+Honda Amaze,Honda,2016,61305,Diesel,Automatic,First Owner,Individual,325000
+Maruti Swift,Maruti,2016,74042,Petrol,Manual,First Owner,Dealer,285000
+Ford EcoSport,Ford,2017,152488,Diesel,Manual,Third Owner,Dealer,260000
+Ford EcoSport,Ford,2013,147161,Petrol,Manual,Second Owner,Individual,230000
+Maruti Swift,Maruti,2019,102960,Petrol,Manual,First Owner,Dealer,315000
+Toyota Etios,Toyota,2015,170024,Diesel,Automatic,First Owner,Individual,280000
+Maruti Alto,Maruti,2019,148669,Petrol,Manual,First Owner,Individual,180000
